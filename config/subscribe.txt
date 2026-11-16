@@ -14,6 +14,8 @@ https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
 https://live.zbds.top/tv/iptv4.m3u
 https://live.zhi35.com/iptv.m3u
 https://raw.githubusercontent.com/admin11044/iptv-1080p-4k/main/output/index.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
 
 
 
