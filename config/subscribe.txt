@@ -16,6 +16,7 @@ https://live.zhi35.com/iptv.m3u
 https://raw.githubusercontent.com/admin11044/iptv-1080p-4k/main/output/index.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
+https://raw.githubusercontent.com/best-fan/iptv-sources/master/cn_all.m3u8
 
 
 
